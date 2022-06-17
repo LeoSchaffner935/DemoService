@@ -1,0 +1,6 @@
+projectKey=LeoDemoProject
+serverUrl=http://localhost:9000/sonar
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=LeoDemoProject
+ceTaskId=AYFykw-xrYeMUhiZqx_B
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AYFykw-xrYeMUhiZqx_B
